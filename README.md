@@ -67,16 +67,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -110,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/dheerajyadav0/Stiver/tree/master/0173-binary-search-tree-iterator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
