@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [1502-construct-k-palindrome-strings](https://github.com/dheerajyadav0/Stiver/tree/master/1502-construct-k-palindrome-strings) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
