@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheerajyadav0/Stiver/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dheerajyadav0/Stiver/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dheerajyadav0/Stiver/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3429-special-array-i](https://github.com/dheerajyadav0/Stiver/tree/master/3429-special-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
