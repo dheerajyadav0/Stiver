@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/dheerajyadav0/Stiver/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dheerajyadav0/Stiver/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/dheerajyadav0/Stiver/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dheerajyadav0/Stiver/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheerajyadav0/Stiver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/dheerajyadav0/Stiver/tree/master/0733-flood-fill) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
+| [0542-01-matrix](https://github.com/dheerajyadav0/Stiver/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajyadav0/Stiver/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/dheerajyadav0/Stiver/tree/master/0733-flood-fill) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/dheerajyadav0/Stiver/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dheerajyadav0/Stiver/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/dheerajyadav0/Stiver/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/dheerajyadav0/Stiver/tree/master/1396-count-servers-that-communicate) |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/dheerajyadav0/Stiver/tree/master/0424-longest-repeating-character-replacement) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/dheerajyadav0/Stiver/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
