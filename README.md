@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/dheerajyadav0/Stiver/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
