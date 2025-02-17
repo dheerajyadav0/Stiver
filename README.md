@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dheerajyadav0/Stiver/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/dheerajyadav0/Stiver/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dheerajyadav0/Stiver/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dheerajyadav0/Stiver/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/dheerajyadav0/Stiver/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheerajyadav0/Stiver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
