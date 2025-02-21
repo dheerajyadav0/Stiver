@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/dheerajyadav0/Stiver/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/dheerajyadav0/Stiver/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/dheerajyadav0/Stiver/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/dheerajyadav0/Stiver/tree/master/1396-count-servers-that-communicate) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/dheerajyadav0/Stiver/tree/master/1558-course-schedule-iv) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/dheerajyadav0/Stiver/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dheerajyadav0/Stiver/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/dheerajyadav0/Stiver/tree/master/1396-count-servers-that-communicate) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/dheerajyadav0/Stiver/tree/master/1558-course-schedule-iv) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/dheerajyadav0/Stiver/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/dheerajyadav0/Stiver/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/dheerajyadav0/Stiver/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/dheerajyadav0/Stiver/tree/master/1502-construct-k-palindrome-strings) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheerajyadav0/Stiver/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/dheerajyadav0/Stiver/tree/master/0173-binary-search-tree-iterator) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dheerajyadav0/Stiver/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Iterator
 |  |
 | ------- |
