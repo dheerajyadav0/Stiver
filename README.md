@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dheerajyadav0/Stiver/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dheerajyadav0/Stiver/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dheerajyadav0/Stiver/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/dheerajyadav0/Stiver/tree/master/3227-find-missing-and-repeated-values) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/dheerajyadav0/Stiver/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dheerajyadav0/Stiver/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/dheerajyadav0/Stiver/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dheerajyadav0/Stiver/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
