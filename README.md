@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/dheerajyadav0/Stiver/tree/master/0733-flood-fill) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/dheerajyadav0/Stiver/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/dheerajyadav0/Stiver/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/dheerajyadav0/Stiver/tree/master/1073-number-of-enclaves) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dheerajyadav0/Stiver/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/dheerajyadav0/Stiver/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dheerajyadav0/Stiver/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dheerajyadav0/Stiver/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1046-max-consecutive-ones-iii](https://github.com/dheerajyadav0/Stiver/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dheerajyadav0/Stiver/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajyadav0/Stiver/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/dheerajyadav0/Stiver/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dheerajyadav0/Stiver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Union Find
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/dheerajyadav0/Stiver/tree/master/0424-longest-repeating-character-replacement) |
+| [1046-max-consecutive-ones-iii](https://github.com/dheerajyadav0/Stiver/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dheerajyadav0/Stiver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dheerajyadav0/Stiver/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
