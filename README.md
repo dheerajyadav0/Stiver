@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dheerajyadav0/Stiver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/dheerajyadav0/Stiver/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dheerajyadav0/Stiver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/dheerajyadav0/Stiver/tree/master/1396-count-servers-that-communicate) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/dheerajyadav0/Stiver/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dheerajyadav0/Stiver/tree/master/1073-number-of-enclaves) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dheerajyadav0/Stiver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/dheerajyadav0/Stiver/tree/master/1396-count-servers-that-communicate) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dheerajyadav0/Stiver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Hash Table
 |  |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dheerajyadav0/Stiver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/dheerajyadav0/Stiver/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/dheerajyadav0/Stiver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/dheerajyadav0/Stiver/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
