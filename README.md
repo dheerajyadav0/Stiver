@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dheerajyadav0/Stiver/tree/master/2685-first-completely-painted-row-or-column) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/dheerajyadav0/Stiver/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dheerajyadav0/Stiver/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dheerajyadav0/Stiver/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dheerajyadav0/Stiver/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/dheerajyadav0/Stiver/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dheerajyadav0/Stiver/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dheerajyadav0/Stiver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2915-count-of-interesting-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/2915-count-of-interesting-subarrays) |
 ## Union Find
 |  |
 | ------- |
