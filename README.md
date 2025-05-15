@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/dheerajyadav0/Stiver/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dheerajyadav0/Stiver/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dheerajyadav0/Stiver/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/dheerajyadav0/Stiver/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dheerajyadav0/Stiver/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/dheerajyadav0/Stiver/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dheerajyadav0/Stiver/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dheerajyadav0/Stiver/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dheerajyadav0/Stiver/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/dheerajyadav0/Stiver/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/dheerajyadav0/Stiver/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/dheerajyadav0/Stiver/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dheerajyadav0/Stiver/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/dheerajyadav0/Stiver/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/dheerajyadav0/Stiver/tree/master/0542-01-matrix) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/dheerajyadav0/Stiver/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
