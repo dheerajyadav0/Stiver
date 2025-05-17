@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dheerajyadav0/Stiver/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/dheerajyadav0/Stiver/tree/master/0368-largest-divisible-subset) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dheerajyadav0/Stiver/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/dheerajyadav0/Stiver/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dheerajyadav0/Stiver/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/dheerajyadav0/Stiver/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/dheerajyadav0/Stiver/tree/master/0130-surrounded-regions) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/dheerajyadav0/Stiver/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/dheerajyadav0/Stiver/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/dheerajyadav0/Stiver/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheerajyadav0/Stiver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2699-count-the-number-of-fair-pairs) |
