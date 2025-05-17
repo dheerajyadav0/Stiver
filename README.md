@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/2915-count-of-interesting-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dheerajyadav0/Stiver/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dheerajyadav0/Stiver/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3227-find-missing-and-repeated-values](https://github.com/dheerajyadav0/Stiver/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/dheerajyadav0/Stiver/tree/master/3429-special-array-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/dheerajyadav0/Stiver/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/dheerajyadav0/Stiver/tree/master/2509-minimize-xor) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dheerajyadav0/Stiver/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dheerajyadav0/Stiver/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Merge Sort
 |  |
 | ------- |
