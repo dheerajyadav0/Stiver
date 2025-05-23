@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheerajyadav0/Stiver/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dheerajyadav0/Stiver/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dheerajyadav0/Stiver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dheerajyadav0/Stiver/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheerajyadav0/Stiver/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dheerajyadav0/Stiver/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dheerajyadav0/Stiver/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheerajyadav0/Stiver/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dheerajyadav0/Stiver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dheerajyadav0/Stiver/tree/master/2215-finding-3-digit-even-numbers) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dheerajyadav0/Stiver/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dheerajyadav0/Stiver/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dheerajyadav0/Stiver/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dheerajyadav0/Stiver/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/dheerajyadav0/Stiver/tree/master/2690-house-robber-iv) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/dheerajyadav0/Stiver/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/dheerajyadav0/Stiver/tree/master/1502-construct-k-palindrome-strings) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dheerajyadav0/Stiver/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dheerajyadav0/Stiver/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/dheerajyadav0/Stiver/tree/master/2509-minimize-xor) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dheerajyadav0/Stiver/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/dheerajyadav0/Stiver/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dheerajyadav0/Stiver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dheerajyadav0/Stiver/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2915-count-of-interesting-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/dheerajyadav0/Stiver/tree/master/3639-zero-array-transformation-i) |
 ## Union Find
@@ -414,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dheerajyadav0/Stiver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dheerajyadav0/Stiver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/dheerajyadav0/Stiver/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dheerajyadav0/Stiver/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
