@@ -14,8 +14,9 @@ public:
         }
 
         for (int i = 0; i < n; ++i) {
-            if (arr[i] == 0 && nums[i] != 0) return false;
-            if (nums[i] > arr[i]) return false;
+            // if (arr[i] == 0 && nums[i] != 0) return false;
+            // if (nums[i] > arr[i]) return false;
+            if (arr[i] < nums[i]) return false;
         }
 
         return true;
