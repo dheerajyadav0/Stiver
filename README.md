@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dheerajyadav0/Stiver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dheerajyadav0/Stiver/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/dheerajyadav0/Stiver/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheerajyadav0/Stiver/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
