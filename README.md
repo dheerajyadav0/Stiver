@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dheerajyadav0/Stiver/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/dheerajyadav0/Stiver/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/dheerajyadav0/Stiver/tree/master/0368-largest-divisible-subset) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/dheerajyadav0/Stiver/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/dheerajyadav0/Stiver/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dheerajyadav0/Stiver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/dheerajyadav0/Stiver/tree/master/0148-sort-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dheerajyadav0/Stiver/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/dheerajyadav0/Stiver/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dheerajyadav0/Stiver/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/dheerajyadav0/Stiver/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/dheerajyadav0/Stiver/tree/master/0151-reverse-words-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheerajyadav0/Stiver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/dheerajyadav0/Stiver/tree/master/0148-sort-list) |
 ## Data Stream
 |  |
 | ------- |
