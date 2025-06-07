@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/dheerajyadav0/Stiver/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dheerajyadav0/Stiver/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dheerajyadav0/Stiver/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2032-largest-odd-number-in-string](https://github.com/dheerajyadav0/Stiver/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dheerajyadav0/Stiver/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/dheerajyadav0/Stiver/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dheerajyadav0/Stiver/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/dheerajyadav0/Stiver/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/dheerajyadav0/Stiver/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/dheerajyadav0/Stiver/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/dheerajyadav0/Stiver/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dheerajyadav0/Stiver/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/dheerajyadav0/Stiver/tree/master/2509-minimize-xor) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dheerajyadav0/Stiver/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/dheerajyadav0/Stiver/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheerajyadav0/Stiver/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/dheerajyadav0/Stiver/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/dheerajyadav0/Stiver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2802-find-the-punishment-number-of-an-integer) |
