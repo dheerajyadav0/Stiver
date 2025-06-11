@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/dheerajyadav0/Stiver/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/dheerajyadav0/Stiver/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/dheerajyadav0/Stiver/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/dheerajyadav0/Stiver/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/dheerajyadav0/Stiver/tree/master/0075-sort-colors) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dheerajyadav0/Stiver/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/dheerajyadav0/Stiver/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/dheerajyadav0/Stiver/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dheerajyadav0/Stiver/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
