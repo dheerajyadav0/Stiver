@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dheerajyadav0/Stiver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/dheerajyadav0/Stiver/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/dheerajyadav0/Stiver/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/dheerajyadav0/Stiver/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/dheerajyadav0/Stiver/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/dheerajyadav0/Stiver/tree/master/1078-remove-outermost-parentheses) |
@@ -532,4 +533,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dheerajyadav0/Stiver/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/dheerajyadav0/Stiver/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dheerajyadav0/Stiver/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/dheerajyadav0/Stiver/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
