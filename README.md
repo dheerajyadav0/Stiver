@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dheerajyadav0/Stiver/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/dheerajyadav0/Stiver/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/dheerajyadav0/Stiver/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dheerajyadav0/Stiver/tree/master/0198-house-robber) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dheerajyadav0/Stiver/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dheerajyadav0/Stiver/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dheerajyadav0/Stiver/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/dheerajyadav0/Stiver/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dheerajyadav0/Stiver/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0213-house-robber-ii) |
