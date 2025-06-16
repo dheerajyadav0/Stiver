@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/dheerajyadav0/Stiver/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/dheerajyadav0/Stiver/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dheerajyadav0/Stiver/tree/master/0198-house-robber) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/dheerajyadav0/Stiver/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/dheerajyadav0/Stiver/tree/master/1502-construct-k-palindrome-strings) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dheerajyadav0/Stiver/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dheerajyadav0/Stiver/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/dheerajyadav0/Stiver/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dheerajyadav0/Stiver/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0213-house-robber-ii) |
