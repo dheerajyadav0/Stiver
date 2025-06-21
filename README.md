@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/dheerajyadav0/Stiver/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/dheerajyadav0/Stiver/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/dheerajyadav0/Stiver/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/dheerajyadav0/Stiver/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/dheerajyadav0/Stiver/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/dheerajyadav0/Stiver/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/dheerajyadav0/Stiver/tree/master/1753-path-with-minimum-effort) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/dheerajyadav0/Stiver/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dheerajyadav0/Stiver/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/dheerajyadav0/Stiver/tree/master/3227-find-missing-and-repeated-values) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Graph
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/dheerajyadav0/Stiver/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/dheerajyadav0/Stiver/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dheerajyadav0/Stiver/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dheerajyadav0/Stiver/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dheerajyadav0/Stiver/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## String Matching
 |  |
 | ------- |
