@@ -612,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/dheerajyadav0/Stiver/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
