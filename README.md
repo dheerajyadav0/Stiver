@@ -619,5 +619,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/dheerajyadav0/Stiver/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/dheerajyadav0/Stiver/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/dheerajyadav0/Stiver/tree/master/1258-article-views-i) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/dheerajyadav0/Stiver/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/dheerajyadav0/Stiver/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
