@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/dheerajyadav0/Stiver/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajyadav0/Stiver/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/dheerajyadav0/Stiver/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheerajyadav0/Stiver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-rabbits-in-forest](https://github.com/dheerajyadav0/Stiver/tree/master/0797-rabbits-in-forest) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/dheerajyadav0/Stiver/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/dheerajyadav0/Stiver/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dheerajyadav0/Stiver/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/dheerajyadav0/Stiver/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/dheerajyadav0/Stiver/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/dheerajyadav0/Stiver/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/dheerajyadav0/Stiver/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/dheerajyadav0/Stiver/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dheerajyadav0/Stiver/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/dheerajyadav0/Stiver/tree/master/0733-flood-fill) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/dheerajyadav0/Stiver/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/dheerajyadav0/Stiver/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dheerajyadav0/Stiver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/dheerajyadav0/Stiver/tree/master/1160-letter-tile-possibilities) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/dheerajyadav0/Stiver/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/dheerajyadav0/Stiver/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/dheerajyadav0/Stiver/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/dheerajyadav0/Stiver/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dheerajyadav0/Stiver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/dheerajyadav0/Stiver/tree/master/1046-max-consecutive-ones-iii) |
