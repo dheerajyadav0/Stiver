@@ -28,9 +28,9 @@ public:
                 if (mpp[curr] == 0) {
                     mpp.erase(curr);
 
-                    if (!pq.empty() && pq.top() == curr) {
+                   
                         pq.pop();
-                    }
+                    
                 }
             }
         }
