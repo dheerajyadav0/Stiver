@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dheerajyadav0/Stiver/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dheerajyadav0/Stiver/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/dheerajyadav0/Stiver/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/dheerajyadav0/Stiver/tree/master/0368-largest-divisible-subset) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/dheerajyadav0/Stiver/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dheerajyadav0/Stiver/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dheerajyadav0/Stiver/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Stack
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/dheerajyadav0/Stiver/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dheerajyadav0/Stiver/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dheerajyadav0/Stiver/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dheerajyadav0/Stiver/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dheerajyadav0/Stiver/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dheerajyadav0/Stiver/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/dheerajyadav0/Stiver/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dheerajyadav0/Stiver/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/dheerajyadav0/Stiver/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dheerajyadav0/Stiver/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Data Stream
 |  |
 | ------- |
@@ -653,4 +657,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/dheerajyadav0/Stiver/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/dheerajyadav0/Stiver/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/dheerajyadav0/Stiver/tree/master/2087-confirmation-rate) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dheerajyadav0/Stiver/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dheerajyadav0/Stiver/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/dheerajyadav0/Stiver/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
