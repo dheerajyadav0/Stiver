@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/dheerajyadav0/Stiver/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/dheerajyadav0/Stiver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/dheerajyadav0/Stiver/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dheerajyadav0/Stiver/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dheerajyadav0/Stiver/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/dheerajyadav0/Stiver/tree/master/2690-house-robber-iv) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/dheerajyadav0/Stiver/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/dheerajyadav0/Stiver/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/dheerajyadav0/Stiver/tree/master/1753-path-with-minimum-effort) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/dheerajyadav0/Stiver/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/dheerajyadav0/Stiver/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Quickselect
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/dheerajyadav0/Stiver/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dheerajyadav0/Stiver/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/dheerajyadav0/Stiver/tree/master/2509-minimize-xor) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/dheerajyadav0/Stiver/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/dheerajyadav0/Stiver/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/dheerajyadav0/Stiver/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Merge Sort
