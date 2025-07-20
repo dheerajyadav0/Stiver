@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/dheerajyadav0/Stiver/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/dheerajyadav0/Stiver/tree/master/0148-sort-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dheerajyadav0/Stiver/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dheerajyadav0/Stiver/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/dheerajyadav0/Stiver/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/dheerajyadav0/Stiver/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dheerajyadav0/Stiver/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dheerajyadav0/Stiver/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/dheerajyadav0/Stiver/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dheerajyadav0/Stiver/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/dheerajyadav0/Stiver/tree/master/2032-largest-odd-number-in-string) |
