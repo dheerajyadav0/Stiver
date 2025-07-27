@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/dheerajyadav0/Stiver/tree/master/0177-nth-highest-salary) |
 | [0577-employee-bonus](https://github.com/dheerajyadav0/Stiver/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/dheerajyadav0/Stiver/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/dheerajyadav0/Stiver/tree/master/0596-classes-with-at-least-5-students) |
