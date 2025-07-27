@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/dheerajyadav0/Stiver/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/dheerajyadav0/Stiver/tree/master/1827-invalid-tweets) |
 | [2087-confirmation-rate](https://github.com/dheerajyadav0/Stiver/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/dheerajyadav0/Stiver/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Binary Indexed Tree
 |  |
 | ------- |
