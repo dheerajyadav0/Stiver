@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/dheerajyadav0/Stiver/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/dheerajyadav0/Stiver/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/dheerajyadav0/Stiver/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/dheerajyadav0/Stiver/tree/master/0347-top-k-frequent-elements) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dheerajyadav0/Stiver/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/dheerajyadav0/Stiver/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dheerajyadav0/Stiver/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dheerajyadav0/Stiver/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dheerajyadav0/Stiver/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/dheerajyadav0/Stiver/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/dheerajyadav0/Stiver/tree/master/1073-number-of-enclaves) |
