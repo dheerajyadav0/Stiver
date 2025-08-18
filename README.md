@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dheerajyadav0/Stiver/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/dheerajyadav0/Stiver/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dheerajyadav0/Stiver/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/dheerajyadav0/Stiver/tree/master/0368-largest-divisible-subset) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dheerajyadav0/Stiver/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dheerajyadav0/Stiver/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/dheerajyadav0/Stiver/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/dheerajyadav0/Stiver/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
