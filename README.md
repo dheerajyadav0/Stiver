@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/dheerajyadav0/Stiver/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dheerajyadav0/Stiver/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/dheerajyadav0/Stiver/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/dheerajyadav0/Stiver/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/dheerajyadav0/Stiver/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dheerajyadav0/Stiver/tree/master/0214-shortest-palindrome) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/dheerajyadav0/Stiver/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/dheerajyadav0/Stiver/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/dheerajyadav0/Stiver/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/dheerajyadav0/Stiver/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dheerajyadav0/Stiver/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/dheerajyadav0/Stiver/tree/master/0198-house-robber) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/dheerajyadav0/Stiver/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dheerajyadav0/Stiver/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dheerajyadav0/Stiver/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/dheerajyadav0/Stiver/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/dheerajyadav0/Stiver/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dheerajyadav0/Stiver/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dheerajyadav0/Stiver/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
